@@ -3,9 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rondunn.github.io/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rondunn.github.io/categories/</loc>
+    <loc>https://rondunn.github.io/posts/first-day/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rondunn.github.io/posts/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rondunn.github.io/tags/snowflake-life/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rondunn.github.io/tags/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rondunn.github.io/categories/</loc>
   </url>
 </urlset>

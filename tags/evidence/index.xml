@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evidence on A Data Warehouse Life</title>
+    <link>https://rondunn.github.io/tags/evidence/</link>
+    <description>Recent content in evidence on A Data Warehouse Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rondunn.github.io/tags/evidence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The StackOverflow Reference</title>
+      <link>https://rondunn.github.io/posts/stackoverflow-reference/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rondunn.github.io/posts/stackoverflow-reference/</guid>
+      <description>Customers ask for references when choosing a cloud data warehouse platform. Who else is using it, and at what scale? They often overlook a more useful and open alternative - the online technical reference.
+I find that StackOverflow is a great place to explore the comparative challenges being faced by users of data warehouse platforms, and the depth to which those users are supported by its vendor and community.
+ How many posts per day?</description>
+    </item>
+    
+  </channel>
+</rss>

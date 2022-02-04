@@ -6,7 +6,18 @@
     <description>Recent content on A Data Warehouse Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rondunn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rondunn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The StackOverflow Reference</title>
+      <link>https://rondunn.github.io/posts/stackoverflow-reference/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rondunn.github.io/posts/stackoverflow-reference/</guid>
+      <description>Customers ask for references when choosing a cloud data warehouse platform. Who else is using it, and at what scale? They often overlook a more useful and open alternative - the online technical reference.
+I find that StackOverflow is a great place to explore the comparative challenges being faced by users of data warehouse platforms, and the depth to which those users are supported by its vendor and community.
+ How many posts per day?</description>
+    </item>
+    
     <item>
       <title>Bye Microsoft ...</title>
       <link>https://rondunn.github.io/posts/first-day/</link>

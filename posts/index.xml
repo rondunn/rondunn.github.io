@@ -6,7 +6,18 @@
     <description>Recent content in Posts on A Data Warehouse Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rondunn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rondunn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why cloning is a performance tuner&#39;s best friend</title>
+      <link>https://rondunn.github.io/posts/tune-clone/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rondunn.github.io/posts/tune-clone/</guid>
+      <description>I&amp;rsquo;ve often been called into POCs to remediate poorly performing queries.
+I remember one POC in particular, on a different platform to Snowflake, where the volume of data and the complexity of the pipeline was such that I could only perform 2-3 tests per day. It would take around one hour to execute the pipeline, but almost three hours to reset all the data for its next execution.
+The test data set was tens of terabytes.</description>
+    </item>
+    
     <item>
       <title>The StackOverflow Reference</title>
       <link>https://rondunn.github.io/posts/stackoverflow-reference/</link>
